@@ -1,3 +1,1 @@
 # hellow-world
-
-Hi Humans!
